@@ -1,1 +1,1 @@
-
+export * from './../../../app/Models/index.js';
